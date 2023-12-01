@@ -1,7 +1,7 @@
 ### DATE : 
 
 
-#  EXP NO : 1 - Mean and variance of a Discrete  Distribution
+##  EXP NO : 1 - Mean and variance of a Discrete  Distribution
 
 
 ## Aim : 
